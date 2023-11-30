@@ -1,6 +1,6 @@
 //your JS code here. If required.
-function  Student(name){
-	this.name=name;
+let student={
+	name:"Utsav"
 }
 Student.prototype.getKeys= function(){
 	let ans=[];
